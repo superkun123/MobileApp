@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"newprojectf8aedcdc": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
